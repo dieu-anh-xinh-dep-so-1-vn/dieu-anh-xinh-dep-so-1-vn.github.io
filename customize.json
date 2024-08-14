@@ -1,0 +1,23 @@
+{
+  "greeting": "윤서야",
+  "name": "안녕",
+  "greetingText": "네 이름이 정말 마음에 들어", 
+  "wishText": "네가 항상 행복하고 행복하길 바라", 
+  "imagePath": "img/dieuanh.png",
+  "text1": "오늘 네 생일이잖아!!! :D",
+  "textInChatBox": "생일 축하 해!!! yeeee!!! 등등...",
+  "sendButtonLabel": "보내",
+  "text2": "이게 내가 할 일이야",
+  "text3": "하지만 내 마음을 바꿨어",
+  "text4": "난 깨달았어, 난 뭔가를 하고 싶어",
+  "text4Adjective": "특별한",
+  "text5Entry": "왜냐하면",
+  "text5Content": "나에게 특별한 사람이야",
+  "smiley": ":)",
+  "bigTextPart1": "왜냐하면",
+  "bigTextPart2": "그래서",
+  "wishHeading": "생일 축하해!",
+  "outroText": "좋아, 이제 네가 원한다면 날 안아줘",
+  "replayText": "또는 다시 검토하려면 클릭하라",
+  "outroSmiley": ":)"
+}
